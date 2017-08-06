@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RemoteSMS</string>
+
+    <string name="server_start">Start</string>
+    <string name="server_stop">Stop</string>
+
+    <string name="default_token"></string>
+    <integer name="default_api_port">38300</integer>
+    <integer name="default_ws_port">38301</integer>
+
+    <string name="token">Token</string>
+    <string name="api_port">API Port</string>
+    <string name="ws_port">WebSocket Port</string>
+
+    <string name="source">View source</string>
+</resources>
