@@ -1,24 +1,19 @@
 ## rsms: mobile
 
-The rsms mobile application lets you run native HTTP and WebSocket servers on your Android device.
+The rsms mobile application lets you run a standalone HTTP and WebSocket server on your Android device.
 
 ### Contents
 
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribute](#contribute)
 - [License](#license)
 
-### Screenshots
-
-_Coming soon._
-
 ### Installation
 
 The mobile application can be run individually, in case you're not interested in running the CLI.
 
-You should have an Android IDE with Kotlin support. I recommend the [Android Studio 3.0 Beta](https://developer.android.com/studio/preview/index.html).
+You should have an Android IDE with Kotlin support. I use the [Android Studio 3.0 Beta](https://developer.android.com/studio/preview/index.html).
 
 Clone the repository and navigate into it:
 
@@ -31,9 +26,9 @@ Open the project in your preferred IDE and build as you regularly would.
 
 ### Usage
 
-Open the app, set your preferred token and server ports, and hit start.
+Open the app, set your preferred token and ports, and hit start.
 
-Note that if you don't set a token, both servers are accessible to anyone on your local server (if they have the host address and port).
+**Note that if you don't set a token, both servers are accessible to anyone on your local network.**
 
 ### Contribute
 
