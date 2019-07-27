@@ -6,8 +6,8 @@ import (
 
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	rsms "github.com/kshvmdn/rsms/rsms-cli"
-	"github.com/kshvmdn/rsms/rsms-cli/version"
+	rsms "github.com/kashav/rsms/rsms-cli"
+	"github.com/kashav/rsms/rsms-cli/version"
 )
 
 var (
